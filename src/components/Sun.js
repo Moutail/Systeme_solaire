@@ -6,7 +6,7 @@ import * as THREE from 'three';
 function Sun({ 
   position = [0, 0, 0], 
   size = 5, 
-  textureUrl = '/textures/sun_texture.jpg' 
+ textureUrl={`${process.env.PUBLIC_URL}/textures/sun_texture.jpg`}
 }) {
   const sunRef = useRef();
   
