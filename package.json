@@ -1,7 +1,7 @@
 {
   "name": "mon-app-web-3d",
   "version": "0.1.0",
-  "homepage": "https://Moutail.github.io/solar-system",
+  "homepage": "https://Moutail.github.io/Systeme_solaire",
   "private": true,
   "dependencies": {
     "@react-spring/three": "^9.7.5",
